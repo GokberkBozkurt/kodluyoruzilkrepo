@@ -23,7 +23,7 @@ Pull requstler kabul edilir.Büyük değişikler için lütfen çnce neyi deği�
 
 ## License
 
-(MIT)
+[MIT](MIT)
 
 ## Bağlanıtı Sayfası
 
